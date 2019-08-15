@@ -1,8 +1,8 @@
 {
   "port": 3056,
-  "url": "https://instalator.hazratgs.com",
+  "url": "https://massfollow.herokuapp.com",
   "cron": "*/1 * * * *",
-  "token": "583168942:AAHgAsyWjSJmdxBzGqM3xizKaba2HJcLDqw",
+  "token": "975113020:AAFTpvhXaPxuZ_ev7to3njf1Up6ZjX5JUX4",
   "mongoose": {
     "uri": "mongodb://localhost/instalator"
   }
